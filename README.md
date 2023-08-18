@@ -38,9 +38,14 @@ In this project, I set out to delve into the musical journey of Greek bands, wit
 * Interact with the visualizations to explore different aspects of the band's evolution and performance history.
 * Modify and adapt the methodologies to analyze other bands or musical genres of your interest.
 
+## MEDIUM ARTICLE
+
+In the [medium article](https://medium.com/@dimmakriss/analyzing-local-bands-series-4c2f26bb5678)
+, you'll get an in-depth look at the methodologies I used, the objectives I set out to achieve, and the exciting discoveries I made along the way. 
+
+Feel free to reach out if you have any questions or thoughts to share! 
 
 
-Check my article on [MEDIUM](https://medium.com/@dimmakriss/analyzing-local-bands-series-4c2f26bb5678).
 
 
 ## 🚀 About Me
