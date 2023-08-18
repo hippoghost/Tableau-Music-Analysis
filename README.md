@@ -38,9 +38,9 @@ In this project, I set out to delve into the musical journey of Greek bands, wit
 * Interact with the visualizations to explore different aspects of the band's evolution and performance history.
 * Modify and adapt the methodologies to analyze other bands or musical genres of your interest.
 
-Check my article on [MEDIUM]([https://medium.com/@dimmakriss/natural-language-processing-and-sentiment-analysis-on-music-lyrics-7af53192945b](https://medium.com/@dimmakriss/analyzing-local-bands-series-4c2f26bb5678)https://medium.com/@dimmakriss/analyzing-local-bands-series-4c2f26bb5678)
+Check my article on [MEDIUM]([https://medium.com/@dimmakriss/analyzing-local-bands-series-4c2f26bb5678])
 
-Check my [Tableau Visualization]([https://public.tableau.com/app/profile/dimmakris./viz/DiafanaKrinabandanalysis/final6])
+Check my [Tableau_Visualization]([https://public.tableau.com/app/profile/dimmakris./viz/DiafanaKrinabandanalysis/final6])
 
 Information about the band can be found on their [official page](https://nightstalkerband.com/) and [wikipedia](https://en.wikipedia.org/wiki/Night_Stalker).
 
