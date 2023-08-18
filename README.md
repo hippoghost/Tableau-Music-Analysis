@@ -3,7 +3,7 @@ Local Bands Unplugged: A Data Science Approach to Musical Analysis with Tableau
 
 
 ## Problem Statement:
-In this project, I set out to delve into the musical journey of Greek bands, with a focus on Diafana Krina (Transparent Lilies), an alternative rock band. My goal was to uncover their narrative, understand how their music evolved over time, and gain insights into the emotional dynamics of their live performances. I aimed to achieve this by utilizing Spotify's API and leveraging Tableau for a comprehensive analysis.
+In this project, I set out to delve into the musical journey of Greek bands, with a focus on [Diafana Krina](https://en.wikipedia.org/wiki/Diafana_Krina), an alternative rock band. My goal was to uncover their narrative, understand how their music evolved over time, and gain insights into the emotional dynamics of their live performances. I aimed to achieve this by utilizing Spotify's API and leveraging Tableau for a comprehensive analysis.
 
 
 ## Methodology
@@ -42,10 +42,6 @@ In this project, I set out to delve into the musical journey of Greek bands, wit
 
 Check my article on [MEDIUM](https://medium.com/@dimmakriss/analyzing-local-bands-series-4c2f26bb5678).
 
-
-
-
-Information about the band can be found in [wikipedia](https://en.wikipedia.org/wiki/Diafana_Krina) and [also here](https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%AC%CF%86%CE%B1%CE%BD%CE%B1_%CE%9A%CF%81%CE%AF%CE%BD%CE%B1).
 
 ## 🚀 About Me
 Data analyst & Storyteller ┃ Pattern discoverer 
