@@ -34,7 +34,7 @@ In this project, I set out to delve into the musical journey of Greek bands, wit
 
 ## How to Use This Project
 
-*Access the Tableau visualizations by opening the provided workbook files.
+* Access the Tableau visualizations by opening [tableau link](https://public.tableau.com/app/profile/dimmakris./viz/DiafanaKrinabandanalysis/final6).
 * Interact with the visualizations to explore different aspects of the band's evolution and performance history.
 * Modify and adapt the methodologies to analyze other bands or musical genres of your interest.
 
