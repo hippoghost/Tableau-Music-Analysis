@@ -6,25 +6,14 @@ Local Bands Unplugged: A Data Science Approach to Musical Analysis with Tableau
 In this project, I set out to delve into the musical journey of Greek bands, with a focus on [Diafana Krina](https://en.wikipedia.org/wiki/Diafana_Krina), an alternative rock band. My goal was to uncover their narrative, understand how their music evolved over time, and gain insights into the emotional dynamics of their live performances. I aimed to achieve this by utilizing Spotify's API and leveraging Tableau for a comprehensive analysis.
 
 
-## Methodology
+## Methodology & Tasks
 
 * Data Gathering: I collected audio features data from Spotify's API, while also sourcing information about live performances from Setlist.fm and YouTube.
-* Data Preparation: I meticulously cleaned and processed the collected data to create a cohesive dataset for analysis.
+* Data Preparation: Cleaned and processed the collected data to create a cohesive dataset for analysis.
 * Exploring the Data: Using Tableau, I conducted various analyses to address questions regarding the band's album popularity, live performances, and correlations between audio features.
 * Visual Representation: I designed interactive visualizations in Tableau to present insights on album popularity trends, live performance history, track characteristics, and audio feature correlations.
 * Generating Insights: By examining the relationships between audio features and album popularity, I was able to extract valuable insights into track success and emotional trends during live performances.
 
-
-## Tasks
-
-* Gathered audio features data through Spotify API.
-* Sourced live performance details from Setlist.fm and YouTube.
-* Processed and unified data for comprehensive analysis.
-* Explored album popularity trends and their connection with audio features.
-* Created visualizations depicting live performance history, including gaps and international tours.
-* Analyzed track characteristics and their emotional implications in live performances.
-* Examined audio feature trends across different albums and identified correlations.
-* Derived insights into track success and emotional trends across time.
 
 ## Business Value
 
